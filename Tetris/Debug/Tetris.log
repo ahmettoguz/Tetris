@@ -1,0 +1,3 @@
+﻿  Tetris.cpp
+C:\Users\lenovo\Desktop\Programlarım\Source Code\C Programming\Tetris\Tetris\Tetris.cpp(881,35): warning C4326: return type of 'main' should be 'int' instead of 'void'
+  Tetris.vcxproj -> C:\Users\lenovo\Desktop\Programlarım\Source Code\C Programming\Tetris\Debug\Tetris.exe
